@@ -1,0 +1,31 @@
+
+.input {
+	 
+    margin-left: 550px;
+    margin-top: 250px;
+    width: 30em;
+	padding: 10px;
+	background-color: red;
+}
+
+.btn_find {
+  background-color: green;  
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  font-size: 45px;
+  width: 50%;
+  height: 50%;
+  
+}
+div.button {
+    margin-top: 50px;
+    margin-left: 550px;
+    width: 1000px;
+    height: 200px;
+   
+	
+}
+
+    
+	
